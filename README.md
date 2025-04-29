@@ -1,2 +1,3 @@
-# shady-spell-book
-The shady spellbook lists various personal codes, scripts, cheats or hacks.
+# shady-book
+The shady spells are not evil juju.
+The codex works best at night, and you cant do harm.
